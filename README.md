@@ -18,7 +18,7 @@
 ## Simulator
 
 - [ftcsim.org](https://ftcsim.org/ftcsim/)
-  - [Pixelpad](https://pixelpad.io/ftcsim/)
+
 
 
 

@@ -24,7 +24,7 @@
   - [Sample code](https://github.com/FIRST-Tech-Challenge/FtcRobotController/wiki/Blocks-Sample-Op-Mode-for-TensorFlow-Object-Detection)
 - [FIRST Machine Learning Toolchain](https://ftc-docs.firstinspires.org/ftc_ml/index.html)
 
-
+## [Events](https://www.firstroboticscanada.org/events/category/ftc/)
 
 
 
